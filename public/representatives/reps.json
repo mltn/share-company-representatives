@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Acer",
+        "logos": ["acer.png"],
+        "data-sr": {
+            "company": "Acer Sales International SA",
+            "location": "Biođio, Švajcarska",
+            "representative": {
+                "name": "Advokatska kancelarija Moravčević, Vojnović i Partneri AOD Beograd",
+                "url": "https://www.schoenherr.rs/",
+                "address": "Bulevar vojvode Bojovića br. 6-8, Beograd",
+                "email": "office@schoenherr.rs"
+            }
+        },
+        "data-en": {
+            "company": "Acer Sales International SA",
+            "location": "Bioggio, Switzerland",
+            "representative": {
+                "name": "Law Office Moravčević, Vojnović and Partners",
+                "url": "https://www.schoenherr.rs/",
+                "address": "Bulevar vojvode Bojovića br. 6-8, Beograd",
+                "email": "office@schoenherr.rs"
+            }
+        }
+    },
+    {
+        "name": "Amazon.com, Amazon Alexa, Amazon Prime Video, Amazon Web Services...",
+        "logos": ["amazon.png", "amazonprimevideo.png", "aws.png"],
+        "data-sr": {
+            "company": "Amazon, Inc.",
+            "location": "Sijetl (Vašington), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Amazon, Inc.",
+            "location": "Seattle (Washington), USA",
+            "representative": null
+        }
+    },
+    {
+        "name": "AiCure",
+        "logos": ["aicure_snip.png"],
+        "data-sr": {
+            "company": "AiCure LLC",
+            "location": "Njujork (Njujork), SAD",
+            "representative": {
+                "name": "Samardžić Oreški Grbović a.o.d.",
+                "url": "https://sog.rs/",
+                "address": "Kondina 13, Beograd",
+                "email": "office@sog.rs"
+            }
+        },
+        "data-en": {
+            "company": "AiCure LLC",
+            "location": "New York (New York), USA",
+            "representative": {
+                "name": "Law Office Samardžić Oreški Grbović",
+                "url": "https://sog.rs/",
+                "address": "Kondina 13, Beograd",
+                "email": "office@sog.rs"
+            }
+        }
+    },
+    {
+        "name": "Twitter",
+        "logos": ["twitter.png"],
+        "data-sr": {
+            "company": "Twitter, Inc.",
+            "location": "San Francisko (Kalifornija), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Twitter, Inc.",
+            "location": "San Francisco (California), USA",
+            "representative": null
+        }
+    },
+    {
+        "name": "Bloodhunt",
+        "logos": ["blood-hunt.png"],
+        "data-sr": {
+            "company": "Sharkmob AB",
+            "location": "Malme, Švedska",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Sharkmob AB",
+            "location": "Malmö, Sweden",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
+    }
+]
