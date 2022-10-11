@@ -10,14 +10,14 @@ const Intro = ({ locale }: Props) => {
     >
       <h1
         className={
-          "leading-7 font-[Foundry] uppercase font-bold " +
+          " font-[Foundry] uppercase font-bold " +
           " text-[36px] sm:text-[40px] md:text-[50px] " +
           " tracking-[-2px] sm:tracking-[-1px] md:tracking-normal "
         }
       >
         {locale === "sr" ? "Predstavnici" : "Representatives"}
       </h1>
-      <h2 className="font-[Foundry] text-[24px] font-bold leading-6">
+      <h2 className="font-[Foundry] text-[24px] font-bold ">
         {locale === "sr"
           ? "Zahtevaj svoja prava, zaštiti svoje podatke"
           : "Demand your rights, protect your data"}

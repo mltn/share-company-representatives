@@ -1,27 +1,11 @@
-const Footer = () => {
+import Logo from "./Logo";
 
-	/*
-	
-  footer {
-    width: 100%;
-    white-space: nowrap;
-    line-height: 60px; 
-    text-align: center;
-    padding-top: 10px;
-  }
-	*/
-    return (
-        <footer className="bg-[#1b1a18]">
-			<div className="container">
-				<p>
-					<a href="https://www.sharefoundation.info/sr/o-nama/">
-						<img src="/img/share-white-01.png"
-							 width="240" style={{paddingTop: "5px"}}/>
-					</a>
-				</p>
-			</div>
-		</footer>
-    );
-};
+const Footer = () => (
+  <footer className="bg-[#1b1a18] leading-[90px] pb-5">
+    <div className="flex justify-around">
+      <Logo />
+    </div>
+  </footer>
+);
 
 export default Footer;

@@ -1,29 +1,16 @@
-import { useRouter } from 'next/router'
+import Logo from "./Logo";
+import LangLink from "./LangLink";
 
-const Navbar = () => {
-	const router = useRouter();
-    return (
-        <nav className="text-muted" style={{backgroundColor: "#1b1a18"}}>
-			<div className="container">
-				<p>
-					<a href="https://www.sharefoundation.info/sr/o-nama/">
-						<img src="/img/share-white-01.png"
-							 width="240" style={{paddingTop: "5px"}}/>
-					</a>
-				</p>
-				<div className="lang-links">
-					<span className="lang-link"
-						onClick={() => {
-							router.push('/', '/', { locale: 'sr' })
-						  }}>sr</span>
-					<span className="lang-link"
-						onClick={() => {
-							router.push('/', '/', { locale: 'en' })
-						  }}>en</span>
-				</div>
-			</div>
-		</nav>
-    );
-};
+const Navbar = () => (
+  <nav className="text-white bg-[#1b1a18] leading-[90px]">
+    <div className="flex justify-between pr-[20px] md:pr-[30px]">
+      <Logo />
+      <div className="lang-links">
+        <LangLink lang="sr" />
+        <LangLink lang="en" />
+      </div>
+    </div>
+  </nav>
+);
 
 export default Navbar;
