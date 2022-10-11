@@ -11,7 +11,7 @@ const Card = ({ locale, companyRepresentative }: Props) => {
   const rep = companyRepresentative.representative;
   return (
     <section>
-      <div className={"service " + (rep != null ? "" : "service-without-rep")}>
+      <div className={"box-content service " + (rep != null ? "" : "service-without-rep")}>
         <div className="logos">
           {companyRepresentative.logos.map(logo => (
             <img key={logo} src={`/representatives/logos/${logo}`} />

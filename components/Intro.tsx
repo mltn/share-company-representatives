@@ -10,20 +10,20 @@ const Intro = ({ locale }: Props) => {
     >
       <h1
         className={
-          " font-[Foundry] uppercase font-bold " +
+          " font-[Foundry] uppercase font-bold my-4 " +
           " text-[36px] sm:text-[40px] md:text-[50px] " +
           " tracking-[-2px] sm:tracking-[-1px] md:tracking-normal "
         }
       >
         {locale === "sr" ? "Predstavnici" : "Representatives"}
       </h1>
-      <h2 className="font-[Foundry] text-[24px] font-bold ">
+      <h2 className="font-[Foundry] text-[24px] font-bold leading-6 my-4">
         {locale === "sr"
           ? "Zahtevaj svoja prava, zaštiti svoje podatke"
           : "Demand your rights, protect your data"}
       </h2>
       {locale === "sr" ? (
-        <div className="text-justify">
+        <div className="text-justify leading-6">
           <p className="mb-[10px]">
             Ovde se mogu naći kontakti predstavnika stranih kompanija u Srbiji,
             kojima se građani mogu obratiti da ostvare svoja zakonska prava kao
@@ -75,7 +75,7 @@ const Intro = ({ locale }: Props) => {
           </p>
         </div>
       ) : (
-        <div className="text-justify">
+        <div className="text-justify leading-6">
           <p className="mb-[10px]">
             Here you can find contact information of foreign companies in
             Serbia, which can be contacted by the citizens in order to exercise
