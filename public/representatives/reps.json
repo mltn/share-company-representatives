@@ -98,5 +98,29 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Alibaba, AliExpress",
+        "logos": ["alibaba.png", "aliexpress.png"],
+        "data-sr": {
+            "company": "Alibaba.com Singapore E-Commerce Private Limited",
+            "location": "Singapur",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Alibaba.com Singapore E-Commerce Private Limited",
+            "location": "Singapore",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
     }
 ]
