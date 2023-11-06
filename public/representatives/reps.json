@@ -338,6 +338,30 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Netflix",
+        "logos": ["netflix.png"],
+        "data-sr": {
+            "company": "Netflix International B.V.",
+            "location": "Amsterdam, Holandija",
+            "representative": {
+                "name": "Law Office Mikijelj Janković and Bogdanović",
+                "url": "https://mjb.rs/",
+                "address": "Vlajkovićeva 28, Beograd",
+                "email": "office@mjb.rs"
+            }
+        },
+        "data-en": {
+            "company": "Netflix International B.V.",
+            "location": "Amsterdam, The Nethelands",
+            "representative": {
+                "name": "Law Office Mikijelj Janković and Bogdanović",
+                "url": "https://mjb.rs/",
+                "address": "Vlajkovićeva 28, Beograd",
+                "email": "office@mjb.rs"
+            }
+        }
     }
 
     
