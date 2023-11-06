@@ -640,6 +640,20 @@
             "location": "San Francisco (California), USA",
             "representative": null
         }
+    },
+    {
+        "name": "Facebook, Instagram, WhatsApp ",
+        "logos": ["fb.png", "instagram.png", "whatsapp.png"],
+        "data-sr": {
+            "company": "Facebook, Inc.",
+            "location": "Menlo Park (Kalifornija), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Facebook, Inc.",
+            "location": "Menlo Park (California), USA",
+            "representative": null
+        }
     }
 
 
