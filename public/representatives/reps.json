@@ -290,6 +290,30 @@
                 "email": "tijana.zunic@zuniclaw.com"
             }
         }
+    },
+    {
+        "name": "G Suite, YouTube, Blogger...",
+        "logos": ["youtube.png"],
+        "data-sr": {
+            "company": "Google LLC",
+            "location": "Mauntan Vju (Kalifornija), SAD",
+            "representative": {
+                "name": "BDK Advokati",
+                "url": "https://bdkadvokati.com/",
+                "address": "Bulevar kralja Aleksandra 28, Beograd",
+                "email": "office@bdkadvokati.com"
+            }
+        },
+        "data-en": {
+            "company": "Google LLC",
+            "location": "Mountain View (California), USA",
+            "representative": {
+                "name": "Law Office BDK Advokati",
+                "url": "https://bdkadvokati.com/",
+                "address": "Bulevar kralja Aleksandra 28, Beograd",
+                "email": "office@bdkadvokati.com"
+            }
+        }
     }
 
     
