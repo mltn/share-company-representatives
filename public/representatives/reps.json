@@ -682,6 +682,20 @@
             "location": "Dublin, Republic of Ireland",
             "representative": null
         }
+    },
+    {
+        "name": "Twitch",
+        "logos": ["twitch.png"],
+        "data-sr": {
+            "company": "Twitch Interactive, Inc.",
+            "location": "San Francisko (Kalifornija), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Twitch Interactive, Inc.",
+            "location": "San Francisco (California), USA",
+            "representative": null
+        }
     }
 
 
