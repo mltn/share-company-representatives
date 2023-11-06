@@ -458,6 +458,30 @@
                 "email": "office@zslaw.rs"
             }
         }
+    },
+    {
+        "name": "Spotify",
+        "logos": ["spotify.png"],
+        "data-sr": {
+            "company": "Spotify AB",
+            "location": "Stokholm, Švedska",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Spotify AB",
+            "location": "Stockholm, Sweden",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
     }
 
     
