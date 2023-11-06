@@ -329,7 +329,7 @@
             }
         },
         "data-en": {
-            "company": "Google LLC",
+            "company": "La Prairie Group AG",
             "location": "Volketswil, Switzerland",
             "representative": {
                 "name": "Law Office Karanović & Partners",
@@ -346,7 +346,7 @@
             "company": "Netflix International B.V.",
             "location": "Amsterdam, Holandija",
             "representative": {
-                "name": "Law Office Mikijelj Janković and Bogdanović",
+                "name": "Advokatska kancelarija Mikijelj Janković i Bogdanović",
                 "url": "https://mjb.rs/",
                 "address": "Vlajkovićeva 28, Beograd",
                 "email": "office@mjb.rs"
@@ -360,6 +360,30 @@
                 "url": "https://mjb.rs/",
                 "address": "Vlajkovićeva 28, Beograd",
                 "email": "office@mjb.rs"
+            }
+        }
+    },
+    {
+        "name": "Yahoo",
+        "logos": ["yahoo!.png"],
+        "data-sr": {
+            "company": "Oath Inc. (kompanija u sastavu Verizon Communications grupe)",
+            "location": "Njujork (Njujork), SAD",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Oath Inc. (Verizon Communications)",
+            "location": "New York (New York), USA",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
             }
         }
     }
