@@ -602,7 +602,32 @@
                 "email": "office@dencic.rs"
             }
         }
+    },
+    {
+        "name": "Yandex servisi",
+        "logos": ["yandex.png"],
+        "data-sr": {
+            "company": "Yandex LLC",
+            "location": "Moskva, Rusija",
+            "representative": {
+                "name": "Advokatska kancelarija Živković Samardžić",
+                "url": "https://www.zslaw.rs/",
+                "address": "Makedonska 30, Beograd",
+                "email": "office@zslaw.rs"
+            }
+        },
+        "data-en": {
+            "company": "Yandex LLC",
+            "location": "Moscow, Russia",
+            "representative": {
+                "name": "Law Office Živković Samardžić",
+                "url": "https://www.zslaw.rs/",
+                "address": "Makedonska 30, Beograd",
+                "email": "office@zslaw.rs"
+            }
+        }
     }
+
 
 
 
