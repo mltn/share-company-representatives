@@ -482,6 +482,30 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Toptal",
+        "logos": ["toptal.png"],
+        "data-sr": {
+            "company": "TOPTAL LLC",
+            "location": "San Francisko (Kalifornija), SAD",
+            "representative": {
+                "name": "Snežana Marković",
+                "url": null,
+                "address": null,
+                "email": "serbianprivacyteam@toptal.com"
+            }
+        },
+        "data-en": {
+            "company": "TOPTAL LLC",
+            "location": "San Francisco (California), USA",
+            "representative": {
+                "name": "Snežana Marković",
+                "url": null,
+                "address": null,
+                "email": "serbianprivacyteam@toptal.com"
+            }
+        }
     }
 
     
