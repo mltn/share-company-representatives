@@ -412,7 +412,7 @@
         }
     },
     {
-        "name": "PUBG Mobile ",
+        "name": "PUBG Mobile",
         "logos": ["pubg.png"],
         "data-sr": {
             "company": "Proxima Beta Pte. LTD u sastavu Tencent grupe",
@@ -432,6 +432,30 @@
                 "url": "https://www.karanovicpartners.com/",
                 "address": "Resavska 23, Beograd",
                 "email": "local.representative@karanovicpartners.com"
+            }
+        }
+    },
+    {
+        "name": "Snapchat",
+        "logos": ["snapchat.png"],
+        "data-sr": {
+            "company": "Snap Inc.",
+            "location": "Santa Monika (Kalifornija), SAD",
+            "representative": {
+                "name": "Advokatska kancelarija Živković Samardžić",
+                "url": "https://www.zslaw.rs/",
+                "address": "Makedonska 30, Beograd",
+                "email": "office@zslaw.rs"
+            }
+        },
+        "data-en": {
+            "company": "Snap Inc.",
+            "location": "Santa Monica (California), USA",
+            "representative": {
+                "name": "Law Office Živković Samardžić",
+                "url": "https://www.zslaw.rs/",
+                "address": "Makedonska 30, Beograd",
+                "email": "office@zslaw.rs"
             }
         }
     }
