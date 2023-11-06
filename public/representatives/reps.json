@@ -171,6 +171,7 @@
             }
         }
     },
+    {
         "name": "Battlerite",
         "logos": ["battlerite.png"],
         "data-sr": {
@@ -193,6 +194,31 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
-    
+    },
+    {
+        "name": "Booking",
+        "logos": ["booking.png"],
+        "data-sr": {
+            "company": "Booking.com B.V.",
+            "location": "Amsterdam, Holandija",
+            "representative": {
+                "name": "Advokatska kancelarija Mikijelj Janković i Bogdanović",
+                "url": "https://mjb.rs/",
+                "address": "Vlajkovićeva 28, Beograd",
+                "email": "office@mjb.rs"
+            }
+        },
+        "data-en": {
+            "company": "Booking.com B.V.",
+            "location": "Amsterdam, The Nethelands",
+            "representative": {
+                "name": "Law Office Mikijelj Janković and Bogdanović",
+                "url": "https://mjb.rs/",
+                "address": "Vlajkovićeva 28, Beograd",
+                "email": "office@mjb.rs"
+            }
+        }
+    },
+
     
 ]
