@@ -642,7 +642,7 @@
         }
     },
     {
-        "name": "Facebook, Instagram, WhatsApp ",
+        "name": "Facebook, Instagram, WhatsApp",
         "logos": ["fb.png", "instagram.png", "whatsapp.png"],
         "data-sr": {
             "company": "Facebook, Inc.",
@@ -652,6 +652,20 @@
         "data-en": {
             "company": "Facebook, Inc.",
             "location": "Menlo Park (California), USA",
+            "representative": null
+        }
+    },
+    {
+        "name": "GoDaddy",
+        "logos": ["godaddy.png"],
+        "data-sr": {
+            "company": "GoDaddy, Inc.",
+            "location": "Skotsdejl (Arizona), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "GoDaddy, Inc.",
+            "location": "Scottsdale (Arizona), USA",
             "representative": null
         }
     }
