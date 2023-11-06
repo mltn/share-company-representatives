@@ -578,6 +578,30 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Wizz Air",
+        "logos": ["wizzair.png"],
+        "data-sr": {
+            "company": "Wizz Air Hungary Airlines Limited",
+            "location": "Budimpešta, Mađarska",
+            "representative": {
+                "name": "Advokat Igor V. Denčić",
+                "url": null,
+                "address": "Terazije 8, Beograd",
+                "email": "office@dencic.rs"
+            }
+        },
+        "data-en": {
+            "company": "Wizz Air Hungary Airlines Limited",
+            "location": "Budapest, Hungary",
+            "representative": {
+                "name": "Attorney at law Igor V. Denčić",
+                "url": null,
+                "address": "Terazije 8, Beograd",
+                "email": "office@dencic.rs"
+            }
+        }
     }
 
 
