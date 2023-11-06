@@ -266,6 +266,30 @@
                 "email": "zastitnik@kimtec.rs"
             }
         }
+    },
+    {
+        "name": "ESky",
+        "logos": ["esky.png"],
+        "data-sr": {
+            "company": "eSky.pl S.A.",
+            "location": "Katovice, Poljska",
+            "representative": {
+                "name": "Advokat Tijana Žunić Marić",
+                "url": "https://zuniclaw.com/akz/tijana-zunic-maric-rs/",
+                "address": "Pozorišni trg 7/6A, Novi Sad",
+                "email": "tijana.zunic@zuniclaw.com"
+            }
+        },
+        "data-en": {
+            "company": "eSky.pl S.A",
+            "location": "Katowice, Poland",
+            "representative": {
+                "name": "Attorney at law Tijana Žunić Marić",
+                "url": "https://zuniclaw.com/akz/tijana-zunic-maric-rs/",
+                "address": "Pozorišni trg 7/6A, Novi Sad",
+                "email": "tijana.zunic@zuniclaw.com"
+            }
+        }
     }
 
     
