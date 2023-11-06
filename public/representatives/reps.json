@@ -122,7 +122,8 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
-    },{
+    },
+    {
         "name": "Ariston",
         "logos": ["ariston.png"],
         "data-sr": {
@@ -145,6 +146,53 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
-    }
+    },
+    {
+        "name": "Ariston",
+        "logos": ["ariston.png"],
+        "data-sr": {
+            "company": "Ariston Thermo Croatia d.o.o",
+            "location": "Zagreb, Hrvatska",
+            "representative": {
+                "name": "Advokatsko ortačko društvo Janković Popović Mitić",
+                "url": "https://www.jpm.rs/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Alibaba.com Singapore E-Commerce Private Limited",
+            "location": "Singapore",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
+    },
+        "name": "Battlerite",
+        "logos": ["battlerite.png"],
+        "data-sr": {
+            "company": "Stunlock Studios AB",
+            "location": "Skevde, Švedska",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Stunlock Studios AB",
+            "location": "Skövde, Sweden",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
+    
     
 ]
