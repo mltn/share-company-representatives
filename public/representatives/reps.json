@@ -219,6 +219,30 @@
             }
         }
     },
+    {
+        "name": "Coca Cola",
+        "logos": ["coca-cola.png"],
+        "data-sr": {
+            "company": "SA Coca-Cola Services N.V. u sastavu The Coca-Cola Company grupe",
+            "location": "Brisel, Belgija",
+            "representative": {
+                "name": "Advokat Ivana Ružičić (advokatska kancelarija PR Legal)",
+                "url": "https://www.prlegal.rs/our-team/ivana-ruzicic/",
+                "address": "Studentski trg 10/4, Beograd",
+                "email": "ivana.ruzicic@prlegal.rs"
+            }
+        },
+        "data-en": {
+            "company": "SA Coca-Cola Services N.V. (The Coca-Cola Company group)",
+            "location": "Brussels, Belgium",
+            "representative": {
+                "name": "Attorney at law Ivana Ružičić (Law Office PR Legal)",
+                "url": "https://www.prlegal.rs/our-team/ivana-ruzicic/",
+                "address": "Studentski trg 10/4, Belgrade",
+                "email": "ivana.ruzicic@prlegal.rs"
+            }
+        }
+    }
 
     
 ]
