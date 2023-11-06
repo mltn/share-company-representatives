@@ -530,7 +530,32 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Viber",
+        "logos": ["viber.png"],
+        "data-sr": {
+            "company": "Viber Media S.a.r.l. ",
+            "location": "Luksemburg",
+            "representative": {
+                "name": "Zajednička advokatske kancelarije Marković Vukotić Jovković",
+                "url": "https://mvj.rs/",
+                "address": "Vlajkovićeva 12, Beograd",
+                "email": "office@mvj.rs"
+            }
+        },
+        "data-en": {
+            "company": "Viber Media S.a.r.l. ",
+            "location": "Luxembourg",
+            "representative": {
+                "name": "Law Office Marković Vukotić Jovković",
+                "url": "https://mvj.rs/",
+                "address": "Vlajkovićeva 12, Beograd",
+                "email": "office@mvj.rs"
+            }
+        }
     }
+
 
 
     
