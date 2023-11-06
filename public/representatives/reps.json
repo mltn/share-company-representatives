@@ -506,7 +506,32 @@
                 "email": "serbianprivacyteam@toptal.com"
             }
         }
+    },
+    {
+        "name": "Upwork",
+        "logos": ["upwork.png"],
+        "data-sr": {
+            "company": "Upwork Global Inc.",
+            "location": "Santa Klara (Kalifornija), SAD",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Upwork Global Inc.",
+            "location": "Santa Clara (California), USA",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
     }
+
 
     
 ]
