@@ -535,7 +535,7 @@
         "name": "Viber",
         "logos": ["viber.png"],
         "data-sr": {
-            "company": "Viber Media S.a.r.l. ",
+            "company": "Viber Media S.a.r.l.",
             "location": "Luksemburg",
             "representative": {
                 "name": "Zajednička advokatske kancelarije Marković Vukotić Jovković",
@@ -545,13 +545,37 @@
             }
         },
         "data-en": {
-            "company": "Viber Media S.a.r.l. ",
+            "company": "Viber Media S.a.r.l.",
             "location": "Luxembourg",
             "representative": {
                 "name": "Law Office Marković Vukotić Jovković",
                 "url": "https://mvj.rs/",
                 "address": "Vlajkovićeva 12, Beograd",
                 "email": "office@mvj.rs"
+            }
+        }
+    },
+    {
+        "name": "WeChat",
+        "logos": ["wechat.png"],
+        "data-sr": {
+            "company": "WeChat International Pte. LTD u sastavu Tencent grupe",
+            "location": "Singapur",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "WeChat International Pte. LTD (Tencent grupe)",
+            "location": "Singapore",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
             }
         }
     }
