@@ -242,6 +242,30 @@
                 "email": "ivana.ruzicic@prlegal.rs"
             }
         }
+    },
+    {
+        "name": "CorvusInfo",
+        "logos": ["corvusinfo.png"],
+        "data-sr": {
+            "company": "CorvusInfo d.o.o.",
+            "location": "Zagreb, Hrvatska",
+            "representative": {
+                "name": "Nataša Pepić",
+                "url": null,
+                "address": null,
+                "email": "zastitnik@kimtec.rs"
+            }
+        },
+        "data-en": {
+            "company": "CorvusInfo d.o.o.",
+            "location": "Zagreb, Croatia",
+            "representative": {
+                "name": "Nataša Pepić",
+                "url": null,
+                "address": null,
+                "email": "zastitnik@kimtec.rs"
+            }
+        }
     }
 
     
