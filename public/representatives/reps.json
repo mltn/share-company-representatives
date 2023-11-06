@@ -314,6 +314,30 @@
                 "email": "office@bdkadvokati.com"
             }
         }
+    },
+    {
+        "name": "La Prairie",
+        "logos": ["la_prairie.png"],
+        "data-sr": {
+            "company": "La Prairie Group AG",
+            "location": "Folketsvil, Švajcarska",
+            "representative": {
+                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        },
+        "data-en": {
+            "company": "Google LLC",
+            "location": "Volketswil, Switzerland",
+            "representative": {
+                "name": "Law Office Karanović & Partners",
+                "url": "https://www.karanovicpartners.com/",
+                "address": "Resavska 23, Beograd",
+                "email": "local.representative@karanovicpartners.com"
+            }
+        }
     }
 
     
