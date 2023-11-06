@@ -386,6 +386,30 @@
                 "email": "local.representative@karanovicpartners.com"
             }
         }
+    },
+    {
+        "name": "Orsay",
+        "logos": ["orsay.png"],
+        "data-sr": {
+            "company": "Orsay GmbH",
+            "location": "Vilštet-Zand, Nemačka",
+            "representative": {
+                "name": "Ordiser doo Beograd",
+                "url": "https://www.orsay.com/sr-rs/help/contact.html",
+                "address": "Jurija Gagarina 16, Belgrade",
+                "email": "service@orsay.com"
+            }
+        },
+        "data-en": {
+            "company": "Orsay GmbH",
+            "location": "Willstätt-Sand, Germany",
+            "representative": {
+                "name": "Ordiser doo Beograd",
+                "url": "https://www.orsay.com/sr-rs/help/contact.html",
+                "address": "Jurija Gagarina 16, Belgrade",
+                "email": "service@orsay.com"
+            }
+        }
     }
 
     
