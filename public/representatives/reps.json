@@ -293,7 +293,7 @@
     },
     {
         "name": "G Suite, YouTube, Blogger...",
-        "logos": ["youtube.png"],
+        "logos": ["google.png","youtube.png"],
         "data-sr": {
             "company": "Google LLC",
             "location": "Mauntan Vju (Kalifornija), SAD",
@@ -625,6 +625,20 @@
                 "address": "Makedonska 30, Beograd",
                 "email": "office@zslaw.rs"
             }
+        }
+    },
+    {
+        "name": "Airbnb",
+        "logos": ["airbnb.png"],
+        "data-sr": {
+            "company": "Airbnb, Inc.",
+            "location": "San Francisko (Kalifornija), SAD",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Airbnb, Inc.",
+            "location": "San Francisco (California), USA",
+            "representative": null
         }
     }
 
