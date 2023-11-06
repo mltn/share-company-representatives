@@ -668,6 +668,20 @@
             "location": "Scottsdale (Arizona), USA",
             "representative": null
         }
+    },
+    {
+        "name": "Ryanair",
+        "logos": ["ryanair.png"],
+        "data-sr": {
+            "company": "Ryanair DAC",
+            "location": "Dablin, Republika Irska",
+            "representative": null
+        },
+        "data-en": {
+            "company": "Ryanair DAC",
+            "location": "Dublin, Republic of Ireland",
+            "representative": null
+        }
     }
 
 
