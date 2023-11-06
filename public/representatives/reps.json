@@ -126,11 +126,11 @@
         "name": "Ariston",
         "logos": ["ariston.png"],
         "data-sr": {
-            "company": "",
-            "location": "Singapur",
+            "company": "Ariston Thermo Croatia d.o.o",
+            "location": "Zagreb, Hrvatska",
             "representative": {
-                "name": "Advokatska kancelarija Karanović & Partners o.a.d. Beograd",
-                "url": "https://www.karanovicpartners.com/",
+                "name": "Advokatsko ortačko društvo Janković Popović Mitić",
+                "url": "https://www.jpm.rs/",
                 "address": "Resavska 23, Beograd",
                 "email": "local.representative@karanovicpartners.com"
             }
@@ -146,4 +146,5 @@
             }
         }
     }
+    
 ]
