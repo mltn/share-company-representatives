@@ -580,7 +580,7 @@
         }
     },
     {
-        "name": "Yandex servisi",
+        "name": "Yandex",
         "logos": ["yandex.png"],
         "data-sr": {
             "company": "Yandex LLC",
